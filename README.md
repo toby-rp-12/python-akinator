@@ -77,15 +77,14 @@ The program will try to guess the student.
 Hello there! Welcome to Guess Who: Classroom Edition!
 What is your name? Alex
 How old are you, Alex? 14
-
+...
 Guess Who: Classroom Edition
 Write T for tutorial.
 Press ENTER to play.
-
+...
 My first question: Is your student a boy? yes
 Does your student’s name begin with letters A-M? yes
 Does your student have glasses? no
-Is your student's first name Adam? yes
 ...
 I know it! Your student is Adam Reisfeld!
 Right? yes
