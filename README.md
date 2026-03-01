@@ -1,9 +1,7 @@
 # python-akinator
-An akinator that guesses members of my CS class!
+An akinator that guesses members of my CS class.
 
 I worked on this project with my classmate, @ElijahCassidy. His repository for this project is here: https://github.com/ElijahCassidy/Akinator-Project1 
-
-I had lots of fun making this project.
 
 ## Project Summary
 
