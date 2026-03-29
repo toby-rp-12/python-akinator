@@ -5,7 +5,7 @@ I worked on this project with my classmate, @ElijahCassidy. His repository for t
 
 ## Project Summary
 
-The game (named Guess Who: Classroom Edition) is a text-based Python guessing game where the computer tries to guess a classmate you’re thinking of by asking a series of yes/no questions. The game includes a tutorial, input validation, and replay functionality.
+The game is a text-based Python guessing game where the computer tries to guess a classmate you’re thinking of by asking a series of yes/no questions. The game includes a tutorial, input validation, and replay functionality.
 
 ## Program Overview
 
