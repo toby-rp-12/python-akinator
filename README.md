@@ -3,6 +3,8 @@ An akinator that guesses members of my CS class.
 
 I worked on this project with my classmate, @ElijahCassidy. His repository for this project is here: https://github.com/ElijahCassidy/Akinator-Project1 
 
+Inspired by akinator (an online guessing game, found at https://en.akinator.com/).
+
 ## Project Summary
 
 The game is a text-based Python guessing game where the computer tries to guess a classmate you’re thinking of by asking a series of yes/no questions. The game includes a tutorial, input validation, and replay functionality.
@@ -12,16 +14,16 @@ The game is a text-based Python guessing game where the computer tries to guess 
 The program:
 
 1. Greets the user and asks for their name and age
-1. Validates user input (especially age)
-1. Optionally walks the user through a tutorial
+1. Walks the user through a tutorial (if requested)
 1. Asks a series of yes/no questions to guess a classmate
 1. Confirms whether the guess was correct
 1. Allows the user to replay the game multiple times
-1. The game is designed to work for one specific classroom group.
+
+**Note:** The game is designed to work for one specific classroom group.
 
 ## Key Features
 
-- Interactive command-line gameplay
+- Interactive gameplay
 
 - Tutorial mode for first-time players
 
@@ -70,24 +72,6 @@ The program will try to guess the student.
 
 6. Press ENTER to play again or S to exit.
 
-## Example Gameplay
-```
-Hello there! Welcome to Guess Who: Classroom Edition!
-What is your name? Alex
-How old are you, Alex? 14
-...
-Guess Who: Classroom Edition
-Write T for tutorial.
-Press ENTER to play.
-...
-My first question: Is your student a boy? yes
-Does your student’s name begin with letters A-M? yes
-Does your student have glasses? no
-...
-I know it! Your student is Adam Reisfeld!
-Right? yes
-Yay, I got it!
-```
 ## File Key
 - **pythonator_logic_tree.xlsx** includes my original logic tree
 - **AkinatorProject** includes the python code for the project.
