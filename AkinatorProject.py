@@ -66,7 +66,7 @@ while go == 1:
                         print(comf(input("Right?")))
                     else:
                         if input("Is your student's first name Adam?") == "yes":
-                            if input("Is your student in the Wellness Minyan?"):
+                            if input("Is your student's last name Reisfeld?"):
                                 print("I know it! Your student is Adam Reisfeld!")
                                 print(comf(input("Right?")))
                             else:
@@ -96,7 +96,7 @@ while go == 1:
                                     print("I know it! Your student is Asher Bunkin!")
                                     print(comf(input("Right?")))
                 else:
-                    if input("Is your student in the Learning Lab?") == "yes":
+                    if input("Did your student NOT take a language FIRST SEMESTER?") == "yes":
                         if input("Is your student in Helios (the student newspaper)?") == "yes":
                             print("I know it! Your student is Toby Rapoport!")
                             print(comf(input("Right?")))
